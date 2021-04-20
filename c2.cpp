@@ -7,7 +7,7 @@ int main()
     cin>>num;
     if(num==0)
     {
-      cout<<"number is zero";
+      cout<<"zero";
     }
     else
     {
